@@ -1,0 +1,45 @@
+h1 
+ {
+    color:rgb(237, 100, 184) ;
+    background-color: cyan;
+    width: 500px;
+    border: 10px dashed blueviolet;
+    padding : 5px ;
+
+ }
+
+ h2
+ {
+     color:rgb(237, 100, 184) ;
+     background-color: cyan;
+     width: 500px;
+     border: 10px dashed blueviolet;
+     padding : 5px ;
+ }
+
+ h3
+ {
+    color:rgb(237, 100, 184) ;
+     background-color: cyan;
+     width: 500px;
+     border: 10px dashed blueviolet;
+     padding : 5px ;  
+ }
+ 
+ h4
+ {  
+     color:rgb(237, 100, 184) ;
+    background-color: cyan;
+    width: 500px;
+    border: 10px dashed blueviolet;
+    padding : 5px ;  
+}
+   
+h5
+{
+    color:rgb(237, 100, 184) ;
+    background-color: cyan;
+    width: 500px;
+    border: 10px dashed blueviolet;
+    padding : 5px ;    
+}
